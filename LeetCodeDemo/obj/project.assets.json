@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Solution\\TwoNum\\TwoNum.csproj",
-      "projectName": "TwoNum",
-      "projectPath": "D:\\LeetCode\\Solution\\TwoNum\\TwoNum.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Solution\\LeetCodeDemo\\LeetCodeDemo.csproj",
+      "projectName": "LeetCodeDemo",
+      "projectPath": "D:\\LeetCode\\Solution\\LeetCodeDemo\\LeetCodeDemo.csproj",
       "packagesPath": "C:\\Users\\Wei\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Solution\\TwoNum\\obj\\",
+      "outputPath": "D:\\LeetCode\\Solution\\LeetCodeDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wei\\AppData\\Roaming\\NuGet\\NuGet.Config",

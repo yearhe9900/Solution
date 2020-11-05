@@ -88,9 +88,9 @@ D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualSt
 D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\TwoNum.dll
-D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\TwoNum.pdb
 D:\LeetCode\Solution\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.csproj.CopyComplete
 D:\LeetCode\Solution\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.dll
 D:\LeetCode\Solution\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.pdb
 D:\LeetCode\Solution\UnitTest\obj\Debug\netcoreapp3.1\UnitTest.genruntimeconfig.cache
+D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\LeetCodeDemo.dll
+D:\LeetCode\Solution\UnitTest\bin\Debug\netcoreapp3.1\LeetCodeDemo.pdb

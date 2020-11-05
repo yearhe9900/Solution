@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TwoNum")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LeetCodeDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TwoNum")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TwoNum")]
+[assembly: System.Reflection.AssemblyProductAttribute("LeetCodeDemo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LeetCodeDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

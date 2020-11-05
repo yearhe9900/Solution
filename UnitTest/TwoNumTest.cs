@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TwoSum;
+using LeetCodeDemo;
 
 namespace UnitTest
 {

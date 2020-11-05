@@ -1635,14 +1635,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "TwoNum/1.0.0": {
+      "LeetCodeDemo/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/TwoNum.dll": {}
+          "bin/placeholder/LeetCodeDemo.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TwoNum.dll": {}
+          "bin/placeholder/LeetCodeDemo.dll": {}
         }
       }
     }
@@ -5716,18 +5716,18 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "TwoNum/1.0.0": {
+    "LeetCodeDemo/1.0.0": {
       "type": "project",
-      "path": "../TwoNum/TwoNum.csproj",
-      "msbuildProject": "../TwoNum/TwoNum.csproj"
+      "path": "../LeetCodeDemo/LeetCodeDemo.csproj",
+      "msbuildProject": "../LeetCodeDemo/LeetCodeDemo.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "LeetCodeDemo >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
-      "TwoNum >= 1.0.0",
       "coverlet.collector >= 1.2.0"
     ]
   },
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\LeetCode\\Solution\\TwoNum\\TwoNum.csproj": {
-              "projectPath": "D:\\LeetCode\\Solution\\TwoNum\\TwoNum.csproj"
+            "D:\\LeetCode\\Solution\\LeetCodeDemo\\LeetCodeDemo.csproj": {
+              "projectPath": "D:\\LeetCode\\Solution\\LeetCodeDemo\\LeetCodeDemo.csproj"
             }
           }
         }
