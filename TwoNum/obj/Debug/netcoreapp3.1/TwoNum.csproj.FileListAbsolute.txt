@@ -6,3 +6,4 @@ D:\LeetCode\Solution\TwoNum\obj\Debug\netcoreapp3.1\TwoNum.AssemblyInfo.cs
 D:\LeetCode\Solution\TwoNum\obj\Debug\netcoreapp3.1\TwoNum.csproj.CoreCompileInputs.cache
 D:\LeetCode\Solution\TwoNum\obj\Debug\netcoreapp3.1\TwoNum.dll
 D:\LeetCode\Solution\TwoNum\obj\Debug\netcoreapp3.1\TwoNum.pdb
+D:\LeetCode\Solution\TwoNum\obj\Debug\netcoreapp3.1\TwoNum.csprojAssemblyReference.cache

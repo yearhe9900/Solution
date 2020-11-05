@@ -47,7 +47,10 @@ namespace TwoSum
                 {
                     return new int[2] { dic[target - nums[i]], i };
                 }
-                dic.Add(nums[i], i);
+                if (!dic.ContainsKey(nums[i]))
+                {
+                    dic.Add(nums[i], i);
+                }
             }
             return new int[0];
         }
